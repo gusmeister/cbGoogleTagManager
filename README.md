@@ -4,7 +4,7 @@ Google Tag Manager - Contentbox module
 This module implements Google Tag Manager
 
 1. Register with Google : https://tagmanager.google.com/#/home
-2. Set up container and note ID
+2. Set up container and make a note of the ID
 3. Install module into Contentbox
 4. Activate module and enter containerID
 
