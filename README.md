@@ -8,7 +8,7 @@ This module implements Google Tag Manager
 3. Install module into Contentbox
 4. Activate module and enter containerID
 
-Two sections will be added to <HEAD> and <BODY>. 
+Two sections will be added to HEAD and BODY. 
 
 Note that Tag Manger is not injected if running as Contentbox Admin or in preview
 
